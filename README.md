@@ -25,6 +25,10 @@ The app has several flashcard decks. Users can open a deck, move between cards, 
 2. Open the project folder in VS Code.
 3. Open `index.html` with Live Server.
 
+## Deployed Ste
+
+Check out [Flashcard app](https://archakhova.github.io/ai-se_project_flashcards/) on GitHub Pages.
+
 ## Author
 
 Valeriia Archakhova
